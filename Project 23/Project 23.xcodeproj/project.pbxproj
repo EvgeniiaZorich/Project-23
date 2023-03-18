@@ -20,6 +20,7 @@
 		32B890C029C3A66E00F646B1 /* sliceHitBomb.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32B890BA29C3A66E00F646B1 /* sliceHitBomb.sks */; };
 		32B890C129C3A66E00F646B1 /* explosion.caf in Resources */ = {isa = PBXBuildFile; fileRef = 32B890BB29C3A66E00F646B1 /* explosion.caf */; };
 		32B890C229C3A66E00F646B1 /* sliceFuse.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32B890BC29C3A66E00F646B1 /* sliceFuse.sks */; };
+		32B890C429C6740200F646B1 /* penguinTrail.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32B890C329C6740200F646B1 /* penguinTrail.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		32B890BA29C3A66E00F646B1 /* sliceHitBomb.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = sliceHitBomb.sks; path = "../../project23-files/Content/sliceHitBomb.sks"; sourceTree = "<group>"; };
 		32B890BB29C3A66E00F646B1 /* explosion.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = explosion.caf; path = "../../project23-files/Content/explosion.caf"; sourceTree = "<group>"; };
 		32B890BC29C3A66E00F646B1 /* sliceFuse.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = sliceFuse.sks; path = "../../project23-files/Content/sliceFuse.sks"; sourceTree = "<group>"; };
+		32B890C329C6740200F646B1 /* penguinTrail.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = penguinTrail.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				32B890BC29C3A66E00F646B1 /* sliceFuse.sks */,
 				32B890BA29C3A66E00F646B1 /* sliceHitBomb.sks */,
 				32B890B729C3A66E00F646B1 /* sliceHitEnemy.sks */,
+				32B890C329C6740200F646B1 /* penguinTrail.sks */,
 			);
 			path = "Project 23";
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				32B890C229C3A66E00F646B1 /* sliceFuse.sks in Resources */,
 				32B890A929C3A48A00F646B1 /* Assets.xcassets in Resources */,
 				32B890AC29C3A48A00F646B1 /* LaunchScreen.storyboard in Resources */,
+				32B890C429C6740200F646B1 /* penguinTrail.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
